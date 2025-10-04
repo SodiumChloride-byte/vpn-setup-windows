@@ -9,7 +9,7 @@ What to include
 - `scripts/check_ip.ps1` — PowerShell script to capture your public IP.  
 
 Steps  
-1. Choose a VPN [Proton VPN](https://protonvpn.com/download-windows).  
+1. Choose a VPN [Proton VPN](https://protonvpn.com/download-windows), [Windscribe VPN](https://windscribe.com/features/windows/). 'I preffered Proton VPN'  
 2. Install the Windows client (see INSTALL.md).  
 3. Before connecting, run `scripts/check_ip.ps1` and screenshot output (`ip-before.png`).  
 4. Connect the VPN. Screenshot app showing “Connected” (`connection-status.png`).  
