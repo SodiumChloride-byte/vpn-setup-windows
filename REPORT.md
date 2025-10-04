@@ -7,10 +7,14 @@ Windows version: Windows 11 Home
 
 ## Steps performed
 1. Installed ProtonVPN client from official site.
-2. Public IP before: 103.87.**.** ![IP Before Screenshot](/screenshots/IP-Before.png).
-3. Connected to VPN (server: Netherlands). ![Connection Status Screenshot](/screenshots/Connect2.png).
-4. Public IP after: 149.34.**.** ![IP After Screenshot](/screenshots/IP-After.png).
-5. Speed test before/after: ![Speed Test Before Screenshot](/screenshots/Speed-Before.png) ![Speed Test After Screenshot](/screenshots/Speed-After.png).
+2. Public IP before: 103.87.xx.xx
+   ![IP Before Screenshot](/screenshots/IP-Before.png).
+3. Connected to VPN (server: Netherlands).
+   ![Connection Status Screenshot](/screenshots/Connect2.png).
+4. Public IP after: 149.34.xx.xx
+   ![IP After Screenshot](/screenshots/IP-After.png).
+5. Speed test before/after:
+   ![Speed Test Before Screenshot](/screenshots/Speed-Before.png) ![Speed Test After Screenshot](/screenshots/Speed-After.png).
 
 ## Observations
 - IP change confirmed: Yes
