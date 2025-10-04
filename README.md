@@ -6,7 +6,7 @@ Objective
 What to include  
 - `screenshots/` — before/after IP, VPN connection status, speed tests.  
 - `REPORT_TEMPLATE.md` — write your report here or export to PDF.  
-- `scripts/check_ip.ps1` — PowerShell script to capture your public IP.  
+- Check your public IP online. [What Is My IP Address](https://whatismyipaddress.com/)  
 
 Steps  
 1. Choose a VPN [Proton VPN](https://protonvpn.com/download-windows), [Windscribe VPN](https://windscribe.com/features/windows/). (I preffered Proton VPN). 
