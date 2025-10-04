@@ -15,4 +15,4 @@ Steps
 4. Connect the VPN. Screenshot app showing “Connected” (`connection-status.png`).  
 5. Run `scripts/check_ip.ps1` again, screenshot output (`ip-after.png`).  
 6. Run an internet speed test before and after using [Ookla Speedtest](https://www.speedtest.net/apps/windows) or [Fast.com](https://fast.com). Save screenshots as `speed-before.png` and `speed-after.png`.  
-7. Fill in `REPORT_TEMPLATE.md` with your results.  
+7. Full Report [REPORT.md](./REPORT.md)  
